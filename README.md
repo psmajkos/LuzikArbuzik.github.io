@@ -44,3 +44,5 @@ E-mail: [kontakt.luzikarbuzik@gmail.com]
 9. Zmiany w Polityce Prywatności
 Zastrzegamy sobie prawo do zmian w Polityce Prywatności. Aktualna wersja będzie zawsze dostępna w Aplikacji.
 
+## Usuwanie Konta
+Użytkownicy mogą usunąć swoje konto w aplikacji, klikając w opcję "Usuń konto" w ustawieniach użytkownika. Po usunięciu konta wszystkie dane użytkownika zostaną trwale usunięte z naszych baz danych. Jeśli potrzebujesz dodatkowej pomocy, skontaktuj się z nami pod adresem: [syntaxia.kontakt@gmail.com].
